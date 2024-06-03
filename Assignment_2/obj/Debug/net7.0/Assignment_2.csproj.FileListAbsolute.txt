@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\bin\Debug\net7.0\Assignment_2.exe
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\bin\Debug\net7.0\Assignment_2.deps.json
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\bin\Debug\net7.0\Assignment_2.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\bin\Debug\net7.0\Assignment_2.dll
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\bin\Debug\net7.0\Assignment_2.pdb
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\Assignment_2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\Assignment_2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\Assignment_2.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\Assignment_2.dll
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\refint\Assignment_2.dll
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\Assignment_2.pdb
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\Assignment_2.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\EcommerceApp\Assignment_2\obj\Debug\net7.0\ref\Assignment_2.dll
